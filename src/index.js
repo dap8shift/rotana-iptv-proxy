@@ -44,7 +44,7 @@ export default {
 const CHANNELS = {
   'art-aflam-1': {
     name: 'ART Aflam 1',
-    url: 'https://games1.elahmad.xyz/tv775_www.elahmad.com_art_aflam1/tracks-v1a1/mono.m3u8?token=ad61fa120f64be27124c73ac3952e82bf6b58e58-37f29e3a2032075ffdc22cf689a19fb8-1767003222-1767001422',
+    url: 'https://games2.elahmad.xyz/tv775_www.elahmad.com_nile_cinema/tracks-v1a1/mono.m3u8?token=1b861ed51232516f45865cea0e803641c3786595-bb2051b4f9d1c5009c0cad3a7eb80660-1767004115-1767002315',
     logo: 'https://i.imgur.com/art-aflam.png'
   }
   // Add more channels here like:
