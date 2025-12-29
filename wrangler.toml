@@ -1,0 +1,6 @@
+name = "rotana-iptv-proxy"
+main = "src/index.js"
+compatibility_date = "2024-01-01"
+
+[env.production]
+workers_dev = false
